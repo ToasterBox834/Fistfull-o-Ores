@@ -1,0 +1,13 @@
+{
+  "group": "fistful_o_ores",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fistful_o_ores:scopper_block"
+    }
+  ],
+  "result": {
+    "item": "fistful_o_ores:scopper_ingot",
+    "count": 9
+  }
+}

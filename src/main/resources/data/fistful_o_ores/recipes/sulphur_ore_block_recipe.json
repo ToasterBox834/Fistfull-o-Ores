@@ -1,0 +1,42 @@
+{
+  "group": "fistful_o_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "1": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "2": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "3": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "4": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "5": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "6": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "7": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "8": {
+      "item": "fistful_o_ores:sulphur_dust"
+    }
+  },
+  "result": {
+    "item": "fistful_o_ores:sulphur_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "fistful_o_ores",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "fistful_o_ores:sulphur_ore"
+  },
+  "result": {
+    "item": "fistful_o_ores:sulphur_dust"
+  }
+}

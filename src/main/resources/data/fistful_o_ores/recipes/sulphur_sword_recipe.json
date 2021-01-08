@@ -1,0 +1,24 @@
+{
+  "group": "fistful_o_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "1": {
+      "item": "fistful_o_ores:sulphur_dust"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "fistful_o_ores:sulphur_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "fistful_o_ores",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fistful_o_ores:simond_block"
+    }
+  ],
+  "result": {
+    "item": "fistful_o_ores:simond_dust",
+    "count": 9
+  }
+}
