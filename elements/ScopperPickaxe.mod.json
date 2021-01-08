@@ -8,7 +8,7 @@
     "name": "Scopper Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:FistfulOOres"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 2,

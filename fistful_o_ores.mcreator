@@ -966,6 +966,15 @@
           }
         ]
       }
+    },
+    {
+      "name": "FistfulOOres",
+      "type": "tab",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fistful_o_ores"
     }
   ],
   "variable_elements": [],
@@ -1027,6 +1036,7 @@
       "item.fistful_o_ores.tupp_shovel": "Tupp Shovel",
       "item.fistful_o_ores.simond_hoe": "Simond Hoe",
       "item.fistful_o_ores.scopper_armor_chestplate": "Scopper Chestplate",
+      "itemGroup.tabfistful_o_ores": "Fistful O\u0027 Ores",
       "item.fistful_o_ores.scopper_ingot": "Scopper",
       "item.fistful_o_ores.tupp_armor_chestplate": "Tupp Chestplate"
     }

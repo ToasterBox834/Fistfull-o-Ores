@@ -5,11 +5,11 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.AxeItem;
 
+import net.mcreator.fistfuloores.itemgroup.FistfulOOresItemGroup;
 import net.mcreator.fistfuloores.FistfulOOresModElements;
 
 @FistfulOOresModElements.ModElement.Tag
@@ -32,7 +32,7 @@ public class ScopperAxeItem extends FistfulOOresModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 7f;
 			}
 
 			public int getHarvestLevel() {
@@ -46,7 +46,7 @@ public class ScopperAxeItem extends FistfulOOresModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(ScopperIngotItem.block, (int) (1)));
 			}
-		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 1, -3f, new Item.Properties().group(FistfulOOresItemGroup.tab)) {
 		}.setRegistryName("scopper_axe"));
 	}
 }
