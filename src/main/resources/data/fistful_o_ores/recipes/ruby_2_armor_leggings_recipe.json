@@ -1,0 +1,36 @@
+{
+  "group": "fistful_o_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "fistful_o_ores:ruby"
+    },
+    "1": {
+      "item": "fistful_o_ores:ruby"
+    },
+    "2": {
+      "item": "fistful_o_ores:ruby"
+    },
+    "3": {
+      "item": "fistful_o_ores:ruby"
+    },
+    "5": {
+      "item": "fistful_o_ores:ruby"
+    },
+    "6": {
+      "item": "fistful_o_ores:ruby"
+    },
+    "8": {
+      "item": "fistful_o_ores:ruby"
+    }
+  },
+  "result": {
+    "item": "fistful_o_ores:ruby_2_armor_leggings",
+    "count": 1
+  }
+}

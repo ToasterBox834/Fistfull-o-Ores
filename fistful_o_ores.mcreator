@@ -534,44 +534,458 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sulphur_armor_boots_recipe"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_smelting"
+    },
+    {
+      "name": "Ruby1Pickaxe",
+      "type": "tool",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_pickaxe"
+    },
+    {
+      "name": "Ruby1Axe",
+      "type": "tool",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_axe"
+    },
+    {
+      "name": "Ruby1Sword",
+      "type": "tool",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_sword"
+    },
+    {
+      "name": "Ruby1Shovel",
+      "type": "tool",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_shovel"
+    },
+    {
+      "name": "Ruby1Hoe",
+      "type": "tool",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_hoe"
+    },
+    {
+      "name": "Ruby1PickaxeRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_pickaxe_recipe"
+    },
+    {
+      "name": "Ruby1AxeRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_axe_recipe"
+    },
+    {
+      "name": "Ruby1SwordRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_sword_recipe"
+    },
+    {
+      "name": "Ruby1ShovelRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_shovel_recipe"
+    },
+    {
+      "name": "Ruby1HoeRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_1_hoe_recipe"
+    },
+    {
+      "name": "Ruby2Armor",
+      "type": "armor",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_2_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Ruby2ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_2_armor_helmet_recipe"
+    },
+    {
+      "name": "Ruby2ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_2_armor_body_recipe"
+    },
+    {
+      "name": "Ruby2ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_2_armor_leggings_recipe"
+    },
+    {
+      "name": "Ruby2ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_2_armor_boots_recipe"
+    },
+    {
+      "name": "TuppIngot",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_ingot"
+    },
+    {
+      "name": "TuppOre",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_ore"
+    },
+    {
+      "name": "TuppBlock",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_block"
+    },
+    {
+      "name": "TuppOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_ore_block_recipe"
+    },
+    {
+      "name": "TuppBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_block_ore_recipe"
+    },
+    {
+      "name": "TuppOreSmelting",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_ore_smelting"
+    },
+    {
+      "name": "TuppPickaxe",
+      "type": "tool",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_pickaxe"
+    },
+    {
+      "name": "TuppAxe",
+      "type": "tool",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_axe"
+    },
+    {
+      "name": "TuppSword",
+      "type": "tool",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_sword"
+    },
+    {
+      "name": "TuppShovel",
+      "type": "tool",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_shovel"
+    },
+    {
+      "name": "TuppHoe",
+      "type": "tool",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_hoe"
+    },
+    {
+      "name": "TuppPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_pickaxe_recipe"
+    },
+    {
+      "name": "TuppAxeRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_axe_recipe"
+    },
+    {
+      "name": "TuppSwordRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_sword_recipe"
+    },
+    {
+      "name": "TuppShovelRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_shovel_recipe"
+    },
+    {
+      "name": "TuppHoeRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_hoe_recipe"
+    },
+    {
+      "name": "TuppArmor",
+      "type": "armor",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TuppArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_armor_helmet_recipe"
+    },
+    {
+      "name": "TuppArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_armor_body_recipe"
+    },
+    {
+      "name": "TuppArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_armor_leggings_recipe"
+    },
+    {
+      "name": "TuppArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupp_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.fistful_o_ores.simond_dust": "Simond",
-      "block.fistful_o_ores.sulphur_block": "Block of Sulphur",
       "item.fistful_o_ores.simond_axe": "Simond Axe",
-      "item.fistful_o_ores.simond_pickaxe": "Simond Pickaxe",
-      "item.fistful_o_ores.sulphur_armor_chestplate": "Sulphur Chestplate",
+      "block.fistful_o_ores.tupp_ore": "Tupp Ore",
+      "block.fistful_o_ores.ruby_block": "Block of Ruby",
+      "item.fistful_o_ores.ruby_1_axe": "Ruby Axe",
       "block.fistful_o_ores.scopper_ore": "Scopper Ore",
-      "item.fistful_o_ores.sulphur_pickaxe": "Sulphur Pickaxe",
       "block.fistful_o_ores.simond_ore": "Simond Ore",
-      "item.fistful_o_ores.simond_sword": "Simond Sword",
-      "block.fistful_o_ores.simond_block": "Block of Simond",
-      "item.fistful_o_ores.sulphur_armor_leggings": "Sulphur Leggings",
+      "item.fistful_o_ores.ruby_2_armor_boots": "Ruby Boots",
+      "item.fistful_o_ores.tupp_armor_leggings": "Tupp Leggings",
+      "item.fistful_o_ores.ruby_1_pickaxe": "Ruby Pickaxe",
       "item.fistful_o_ores.sulphur_sword": "Sulphur Sword",
-      "item.fistful_o_ores.sulphur_armor_helmet": "Sulphur Helmet",
-      "item.fistful_o_ores.sulphur_hoe": "Sulphur Hoe",
+      "item.fistful_o_ores.ruby_2_armor_helmet": "Ruby Helmet",
+      "item.fistful_o_ores.tupp_axe": "Tupp Axe",
       "item.fistful_o_ores.scopper_axe": "Scopper Axe",
-      "item.fistful_o_ores.scopper_armor_leggings": "Scopper Leggings",
-      "block.fistful_o_ores.sulphur_ore": "Sulphur Ore",
+      "item.fistful_o_ores.tupp_ingot": "Tupp",
       "item.fistful_o_ores.sulphur_armor_boots": "Sulphur Boots",
       "item.fistful_o_ores.scopper_shovel": "Scopper Shovel",
       "item.fistful_o_ores.scopper_pickaxe": "Scopper Pickaxe",
+      "item.fistful_o_ores.tupp_armor_boots": "Tupp Boots",
+      "item.fistful_o_ores.tupp_pickaxe": "Tupp Pickaxe",
+      "item.fistful_o_ores.sulphur_shovel": "Sulphur Shovel",
+      "item.fistful_o_ores.ruby_1_sword": "Ruby Sword",
+      "block.fistful_o_ores.scopper_block": "Block of Scopper",
+      "item.fistful_o_ores.tupp_armor_helmet": "Tupp Helmet",
+      "item.fistful_o_ores.ruby_2_armor_leggings": "Ruby Leggings",
+      "item.fistful_o_ores.sulphur_dust": "Sulphur",
+      "item.fistful_o_ores.ruby_1_shovel": "Ruby Shovel",
+      "item.fistful_o_ores.ruby_1_hoe": "Ruby Hoe",
+      "item.fistful_o_ores.scopper_sword": "Scopper Sword",
+      "item.fistful_o_ores.simond_dust": "Simond",
+      "block.fistful_o_ores.sulphur_block": "Block of Sulphur",
+      "block.fistful_o_ores.ruby_ore": "Ruby Ore",
+      "item.fistful_o_ores.tupp_hoe": "Tupp Hoe",
+      "item.fistful_o_ores.simond_pickaxe": "Simond Pickaxe",
+      "item.fistful_o_ores.sulphur_armor_chestplate": "Sulphur Chestplate",
+      "item.fistful_o_ores.sulphur_pickaxe": "Sulphur Pickaxe",
+      "item.fistful_o_ores.simond_sword": "Simond Sword",
+      "item.fistful_o_ores.tupp_sword": "Tupp Sword",
+      "block.fistful_o_ores.simond_block": "Block of Simond",
+      "item.fistful_o_ores.sulphur_armor_leggings": "Sulphur Leggings",
+      "item.fistful_o_ores.sulphur_armor_helmet": "Sulphur Helmet",
+      "item.fistful_o_ores.ruby": "Ruby",
+      "item.fistful_o_ores.sulphur_hoe": "Sulphur Hoe",
+      "item.fistful_o_ores.scopper_armor_leggings": "Scopper Leggings",
+      "block.fistful_o_ores.sulphur_ore": "Sulphur Ore",
+      "item.fistful_o_ores.ruby_2_armor_chestplate": "Ruby Chestplate",
+      "block.fistful_o_ores.tupp_block": "Block of Tupp",
       "item.fistful_o_ores.simond_shovel": "Simond Shovel",
       "item.fistful_o_ores.sulphur_axe": "Sulphur Axe",
       "item.fistful_o_ores.scopper_hoe": "Scopper Hoe",
-      "item.fistful_o_ores.scopper_armor_boots": "Scopper Boots",
       "item.fistful_o_ores.scopper_armor_helmet": "Scopper Helmet",
-      "item.fistful_o_ores.sulphur_shovel": "Sulphur Shovel",
+      "item.fistful_o_ores.scopper_armor_boots": "Scopper Boots",
+      "item.fistful_o_ores.tupp_shovel": "Tupp Shovel",
       "item.fistful_o_ores.simond_hoe": "Simond Hoe",
-      "block.fistful_o_ores.scopper_block": "Block of Scopper",
       "item.fistful_o_ores.scopper_armor_chestplate": "Scopper Chestplate",
-      "item.fistful_o_ores.sulphur_dust": "Sulphur",
-      "item.fistful_o_ores.scopper_sword": "Scopper Sword",
-      "item.fistful_o_ores.scopper_ingot": "Scopper"
+      "item.fistful_o_ores.scopper_ingot": "Scopper",
+      "item.fistful_o_ores.tupp_armor_chestplate": "Tupp Chestplate"
     }
   },
   "workspaceSettings": {

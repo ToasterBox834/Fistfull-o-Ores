@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "fistful_o_ores:items/tupp_pickaxe"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "fistful_o_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fistful_o_ores:tupp_ingot"
+    },
+    "2": {
+      "item": "fistful_o_ores:tupp_ingot"
+    },
+    "3": {
+      "item": "fistful_o_ores:tupp_ingot"
+    },
+    "4": {
+      "item": "fistful_o_ores:tupp_ingot"
+    },
+    "5": {
+      "item": "fistful_o_ores:tupp_ingot"
+    },
+    "6": {
+      "item": "fistful_o_ores:tupp_ingot"
+    },
+    "7": {
+      "item": "fistful_o_ores:tupp_ingot"
+    },
+    "8": {
+      "item": "fistful_o_ores:tupp_ingot"
+    }
+  },
+  "result": {
+    "item": "fistful_o_ores:tupp_armor_chestplate",
+    "count": 1
+  }
+}

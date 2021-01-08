@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fistful_o_ores:items/ruby2_body"
+  }
+}

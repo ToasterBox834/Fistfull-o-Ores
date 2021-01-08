@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fistful_o_ores:blocks/ruby_ore",
+    "particle": "fistful_o_ores:blocks/ruby_ore"
+  }
+}
