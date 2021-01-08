@@ -924,6 +924,48 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tupp_armor_boots_recipe"
+    },
+    {
+      "name": "AutoIgnite",
+      "type": "enchantment",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "auto_ignite"
+    },
+    {
+      "name": "AutoIgniteProcedure",
+      "type": "procedure",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "auto_ignite_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -933,6 +975,7 @@
       "item.fistful_o_ores.simond_axe": "Simond Axe",
       "block.fistful_o_ores.tupp_ore": "Tupp Ore",
       "block.fistful_o_ores.ruby_block": "Block of Ruby",
+      "enchantment.fistful_o_ores.auto_ignite": "Auto Ignite",
       "item.fistful_o_ores.ruby_1_axe": "Ruby Axe",
       "block.fistful_o_ores.scopper_ore": "Scopper Ore",
       "block.fistful_o_ores.simond_ore": "Simond Ore",
